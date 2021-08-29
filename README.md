@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gustavodetanti
-- 👀 I’m interested in programing, art and bio sustanibility
+- 👀 I’m interested in programing, art and bio 
 - 🌱 I’m currently learning go and agriculture
 
 
